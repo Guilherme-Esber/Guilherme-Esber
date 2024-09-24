@@ -34,7 +34,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/MelzitoZz/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Guilherme-Esber/count.svg?"  />
 </div>
 
 ###
